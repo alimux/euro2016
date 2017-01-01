@@ -1,13 +1,13 @@
  _______________________________
-|				|
+|				
 | Euro 2016 sentiment monitor	|
  _______________________________
 
 - Tree :
 
-	class
+    class
 	css
-	fonts	
+    fonts		
 	images
 	js
 	json (not available on git)

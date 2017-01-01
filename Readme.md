@@ -5,23 +5,24 @@
 
 - Tree :
 
-- class
-- css
-- fonts
-- images
-- js
-- json
-- phpInsight-master
+	class
+	css
+	fonts	
+	images
+	js
+	json (not available on git)
+	phpInsight-master(not available on git)
 
-- index.php
-- splitJson.php
+	index.php
+	splitJson.php
 
  ___________________
  
    MongoDB config
  ___________________
 
- Database name : euroTweets
+ 	Database name : euroTweets
+ 
  Collections name's : euro2016, collection1, collection2, collection 3
  Collection not available on Github. please contact me for more information
 
